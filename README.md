@@ -1,6 +1,6 @@
 # Squeezme
 
-Webpage width resizer **menubar** for developers (uses jQuery). Adds a _Squeezeme_ menubar to the top of any page displayed through the iframe. The required HTML, CSS and JS is all in the one HTML file.
+Webpage width resizer **menubar** for developers (uses jQuery). Adds a _Squeezeme_ menubar to the top of any page displayed through the iframe in the browser. The required HTML, CSS and JS is all in the one HTML file.
 
 Demo: [http://simonpadbury.github.io/Squeezme/](http://simonpadbury.github.io/Squeezme/) – notice the red menubar at the top of the window.
 
